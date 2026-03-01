@@ -26,6 +26,7 @@ longjmp_address = 0x8247AE00
 0x82130280 = { name = "rex_sub_82130280" }
 0x82130268 = { name = "rex_sub_82130268" }
 0x82130278 = { name = "rex_sub_82130278" }
+0x82186d88 = { name = "rex_sub_82186d88" }
 # genned
 0x820F0018 = { name = "rex_sub_820F0018", size = 0x5C }
 0x820F0078 = { name = "rex_sub_820F0078", size = 0x48 }
